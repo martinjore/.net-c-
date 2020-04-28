@@ -1,0 +1,13 @@
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\obj\Debug\netcoreapp3.1\unidad2tp2.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\obj\Debug\netcoreapp3.1\unidad2tp2.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\obj\Debug\netcoreapp3.1\unidad2tp2.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\obj\Debug\netcoreapp3.1\unidad2tp2.AssemblyInfo.cs
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\bin\Debug\netcoreapp3.1\unidad2tp2.exe
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\bin\Debug\netcoreapp3.1\unidad2tp2.deps.json
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\bin\Debug\netcoreapp3.1\unidad2tp2.runtimeconfig.json
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\bin\Debug\netcoreapp3.1\unidad2tp2.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\bin\Debug\netcoreapp3.1\unidad2tp2.dll
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\bin\Debug\netcoreapp3.1\unidad2tp2.pdb
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\obj\Debug\netcoreapp3.1\unidad2tp2.dll
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\obj\Debug\netcoreapp3.1\unidad2tp2.pdb
+C:\Users\Martin\source\repos\unidad2tp2\unidad2tp2\obj\Debug\netcoreapp3.1\unidad2tp2.genruntimeconfig.cache

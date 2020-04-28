@@ -1,0 +1,12 @@
+C:\Users\Martin\source\repos\unidad2tp2\procedimiento\obj\Debug\netcoreapp3.1\procedimiento.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\unidad2tp2\procedimiento\obj\Debug\netcoreapp3.1\procedimiento.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\unidad2tp2\procedimiento\obj\Debug\netcoreapp3.1\procedimiento.AssemblyInfo.cs
+C:\Users\Martin\source\repos\unidad2tp2\procedimiento\bin\Debug\netcoreapp3.1\procedimiento.exe
+C:\Users\Martin\source\repos\unidad2tp2\procedimiento\bin\Debug\netcoreapp3.1\procedimiento.deps.json
+C:\Users\Martin\source\repos\unidad2tp2\procedimiento\bin\Debug\netcoreapp3.1\procedimiento.runtimeconfig.json
+C:\Users\Martin\source\repos\unidad2tp2\procedimiento\bin\Debug\netcoreapp3.1\procedimiento.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\unidad2tp2\procedimiento\bin\Debug\netcoreapp3.1\procedimiento.dll
+C:\Users\Martin\source\repos\unidad2tp2\procedimiento\bin\Debug\netcoreapp3.1\procedimiento.pdb
+C:\Users\Martin\source\repos\unidad2tp2\procedimiento\obj\Debug\netcoreapp3.1\procedimiento.dll
+C:\Users\Martin\source\repos\unidad2tp2\procedimiento\obj\Debug\netcoreapp3.1\procedimiento.pdb
+C:\Users\Martin\source\repos\unidad2tp2\procedimiento\obj\Debug\netcoreapp3.1\procedimiento.genruntimeconfig.cache
